@@ -1,0 +1,5 @@
+Without notation:
+python evaluate.py -experiment_path_pre experiments/M3 -mode 2 --rdp_name_suffix "example_plot" --test_batch_size 100 --n_losses 3 --colorbar "bits" --text "none" --line_segments "none" --climits 0 8 --Lambda_base 0.015 --shuffle_test 1 --random_seed 1
+
+With notation:
+python evaluate.py -experiment_path_pre experiments/M1 -mode 2 --rdp_name_suffix "example_plot" --test_batch_size 100 --n_losses 3 --colorbar "bits" --text "Lambdas" --line_segments "none" --climits 0 8 --Lambda_base 0.015 --shuffle_test 1 --random_seed 1

@@ -1,0 +1,6 @@
+n_bits,distortion_loss,perception_loss,latent_dim_1,latent_dim_0,L_1,L_0,Lambda_base,Lambda_reduced
+
+                    4.754887502163468,0.05021069447199503,0.20290032029151917,3,
+                    3,3,3,0.015,
+                    3e-05
+                

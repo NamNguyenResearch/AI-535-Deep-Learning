@@ -1,0 +1,11 @@
+Experiment: 28/02/2025 00:55:58
+exp,dataset,latent_dim_1,L_1,Lambda_base,n_critic,n_epochs,progress_intervals,enc_layer_scale,initialize_mse_model,test_batch_size,timing
+0,mnist,3,3,0,1,25,6,1,0,100,0.000778821433333358
+1,mnist,3,3,0.001,1,25,6,1,0,100,experiments/M3/3-3/Lambda=0.00000,0.000737300449999978
+2,mnist,3,3,0.0033,1,25,6,1,0,100,experiments/M3/3-3/Lambda=0.00000,0.0007550565833332949
+3,mnist,3,3,0.0066,1,25,6,1,0,100,experiments/M3/3-3/Lambda=0.00000,0.0007357688666665751
+4,mnist,3,3,0.008,1,25,6,1,0,100,experiments/M3/3-3/Lambda=0.00000,0.0007773084499999546
+5,mnist,3,3,0.011,1,25,6,1,0,100,experiments/M3/3-3/Lambda=0.00000,0.0007372209999999768
+6,mnist,3,3,0.013,1,25,6,1,0,100,experiments/M3/3-3/Lambda=0.00000,0.0007655787500000362
+7,mnist,3,3,0.015,1,25,6,1,0,100,experiments/M3/3-3/Lambda=0.00000,0.0007248723166667285
+Total time taken (minutes): 0.006011927849999902

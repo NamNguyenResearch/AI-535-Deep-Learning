@@ -1,0 +1,13 @@
+Experiment: 22/02/2025 02:32:41
+exp,dataset,latent_dim_1,latent_dim_0,L_1,L_0,Lambda_base,Lambda_reduced,n_epochs,progress_intervals,initialize_base_discriminator,initialize_mse_model,test_batch_size,load_base_model_path,reduced_dims,timing
+0,mnist,5,5,4,4,0.015,0,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,6.6050500000000106e-06
+1,mnist,5,5,4,4,0.015,0.0025,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,7.584899999999994e-06
+2,mnist,5,5,4,4,0.015,0.004,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,6.446433333333335e-06
+3,mnist,5,5,4,4,0.015,0.005,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,6.543449999999995e-06
+4,mnist,5,5,4,4,0.015,0.006,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,6.923283333333299e-06
+5,mnist,5,5,4,4,0.015,0.008,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,7.1501999999999904e-06
+6,mnist,5,5,4,4,0.015,0.009,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,7.520199999999991e-06
+7,mnist,5,5,4,4,0.015,0.01,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,7.986550000000046e-06
+8,mnist,5,5,4,4,0.015,0.011,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,7.934349999999998e-06
+9,mnist,5,5,4,4,0.015,0.013,30,6,1,0,5000,experiments/M1/5-4/Lambda=0.01500,0,1,2,3,4,7.21896666666666e-06
+Total time taken (minutes): 7.191338333333332e-05
